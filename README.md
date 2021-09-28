@@ -1,4 +1,4 @@
-# Spatial Liver Model
+# Spatial Liver Model - Version 2.0, 2021
 
 This repository contains 4 files.
 - ModelFile.ode contains the model code
