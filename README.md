@@ -17,5 +17,4 @@ as the SpatialLiverModel files. Once XPPAUT has been locally downloaded, place t
 files. To run the model file, open RunOdeFiles.m, change the path to the SpatialLiverModel directory, rename the output data file, and run in MATLAB. Simulations
 from the referenced manuscript can be replicated using the instructions provided in the SimulationInstructions.rtf file.
 
-**ref:** Verma, A., Manchel, A., et al., A Spatial Model of Hepatic Calcium Signaling and Glucose Metabolism under Autonomic Control Reveals Functional
-Consequences of Varying Liver Innervation Patterns Across Species. (2021). *Frontiers in Physiology.* In Review.
+**ref:** Verma, A., Manchel, A., Narayanan, R., Hoek, J. B., Ogunnaike, B. A., & Vadigepalli, R. (2021). A Spatial Model of Hepatic Calcium Signaling and Glucose Metabolism Under Autonomic Control Reveals Functional Consequences of Varying Liver Innervation Patterns Across Species. *Frontiers in physiology*, 12, 748962. https://doi.org/10.3389/fphys.2021.748962
